@@ -1,0 +1,15 @@
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\bin\Debug\net6.0\assignment2.exe
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\bin\Debug\net6.0\assignment2.deps.json
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\bin\Debug\net6.0\assignment2.runtimeconfig.json
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\bin\Debug\net6.0\assignment2.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\bin\Debug\net6.0\assignment2.pdb
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.csproj.AssemblyReference.cache
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.AssemblyInfoInputs.cache
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.AssemblyInfo.cs
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.csproj.CoreCompileInputs.cache
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\refint\assignment2.dll
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.pdb
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\assignment2.genruntimeconfig.cache
+C:\UNIVERSIDAD\YEAR 1\Programming\programming3-week2\assignment2\obj\Debug\net6.0\ref\assignment2.dll
